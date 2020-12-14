@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTutorial</string>
+    <string name="login">Log In</string>
+    <string name="cong">Congratulations!!!\nLogin Successful</string>
+</resources>
